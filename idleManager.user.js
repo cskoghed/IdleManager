@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Idle Manager
-// @namespace    degod.IdleManager
+// @namespace    https://github.com/cskoghed/IdleManager
 // @version      0.0.0.2
 // @description  Useful information and tools for IDLE-PIXEL.com
-// @author       You
+// @author       https://github.com/cskoghed
 // @match        https://idle-pixel.com/login/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=idle-pixel.com
 // @grant        GM.xmlHttpRequest
