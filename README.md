@@ -47,10 +47,6 @@ If one-click install does not open Tampermonkey automatically:
 - Persistent settings stored in browser local storage.
 
 ## What needs to be improved
-
-- Clean up userscript metadata:
-  - `@updateURL` and `@downloadURL` currently point to a local file path.
-  - `@author` is still a placeholder.
 - Complete unfinished areas marked with TODOs (for example, preset logic and partial managers).
 - Split the script into smaller modules for maintainability (the file is currently very large).
 - Add a proper versioning and release flow so updates are easier to distribute.
