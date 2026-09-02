@@ -5,7 +5,7 @@
 // @updateURL    https://raw.githubusercontent.com/cskoghed/IdleManager/main/idleManager.js
 // @downloadURL  https://raw.githubusercontent.com/cskoghed/IdleManager/main/idleManager.js
 // @description  Useful information and tools for IDLE-PIXEL.com
-// @author       cskoghed
+// @author       https://github.com/cskoghed
 // @match        https://idle-pixel.com/login/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=idle-pixel.com
 // @grant        GM.xmlHttpRequest
