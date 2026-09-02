@@ -5,15 +5,24 @@ It runs in your browser while you play and helps reduce repetitive manual action
 
 ## Install with Tampermonkey
 
+[![Install IdleManager](https://img.shields.io/badge/Install-IdleManager-blue?logo=tampermonkey)](https://raw.githubusercontent.com/cskoghed/IdleManager/main/idleManager.user.js)
+
 1. Install the **Tampermonkey** browser extension:
    - Chrome/Edge: https://www.tampermonkey.net/
    - Firefox: https://addons.mozilla.org/firefox/addon/tampermonkey/
-2. Open Tampermonkey and create a new script (`Create a new script...`).
-3. Replace the default template with the contents of:
-   - `/home/runner/work/IdleManager/IdleManager/idleManager.js`
-4. Save the script.
-5. Open or refresh `https://idle-pixel.com/login/`.
-6. Log in to IdlePixel and verify the IdleManager UI/buttons are visible.
+2. Click the **Install IdleManager** button above.
+3. Confirm installation in the Tampermonkey popup/tab.
+4. Open or refresh `https://idle-pixel.com/login/`.
+5. Log in to IdlePixel and verify the IdleManager UI/buttons are visible.
+
+### Manual fallback
+
+If one-click install does not open Tampermonkey automatically:
+
+1. Open `idleManager.js` in this repository.
+2. Copy the file contents.
+3. Create a new Tampermonkey script and paste it.
+4. Save and refresh the game page.
 
 ## Key features
 
