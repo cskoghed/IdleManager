@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Idle Manager
-// @namespace    degod.IdleManager
+// @namespace    https://github.com/cskoghed/IdleManager
 // @version      0.0.0.2
-// @updateURL    file://G:/My%20Drive/%E2%88%9E.1/Projekt/Userscripts/idleManager/src/idleManager.js
-// @downloadURL  file://G:/My%20Drive/%E2%88%9E.1/Projekt/Userscripts/idleManager/src/idleManager.js
+// @updateURL    https://raw.githubusercontent.com/cskoghed/IdleManager/main/idleManager.js
+// @downloadURL  https://raw.githubusercontent.com/cskoghed/IdleManager/main/idleManager.js
 // @description  Useful information and tools for IDLE-PIXEL.com
-// @author       You
+// @author       cskoghed
 // @match        https://idle-pixel.com/login/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=idle-pixel.com
 // @grant        GM.xmlHttpRequest
